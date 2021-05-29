@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @randallard
+👋 Hi, I’m @randallard
 
 I'm working on a game about square dancing.
 
